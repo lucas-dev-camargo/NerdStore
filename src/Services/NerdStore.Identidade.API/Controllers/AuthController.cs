@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace NerdStore.Identidade.API.Controllers
 {
-    [Route("api/[identidade]")]
+    [Route("api/identidade")]
     [ApiController]
     public class AuthController : ControllerBase
     {
